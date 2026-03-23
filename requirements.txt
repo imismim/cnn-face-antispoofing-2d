@@ -1,0 +1,30 @@
+# Core Scientific Computing
+numpy
+scipy
+
+# Computer Vision
+opencv-python
+Pillow
+
+# Machine Learning
+scikit-learn
+scikit-image
+
+# Visualization
+matplotlib
+seaborn
+
+# Progress Bars
+tqdm
+
+# Jupyter Support
+jupyter
+notebook
+ipywidgets
+ipykernel
+
+# Data Handling
+pandas
+
+# Model Serialization
+joblib
