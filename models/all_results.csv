@@ -1,0 +1,19 @@
+Model,Protocol,Accuracy,AUC,EER (%),HTER (%)
+CNN scratch,grandtest,0.9455,0.9933,2.76,3.27
+CNN scratch,print,0.9625,0.9834,3.12,3.75
+CNN scratch,mobile,0.9705,0.9975,0.94,2.23
+CNN scratch,highdef,0.9458,0.9942,3.75,4.06
+CNN scratch,fixed,0.9531,0.9951,2.27,3.3
+CNN scratch,hand,0.9536,0.9916,3.63,3.25
+MobileNetV2,grandtest,0.9916,0.9997,0.13,0.5
+MobileNetV2,print,0.9938,0.9986,0.62,0.62
+MobileNetV2,mobile,1.0,1.0,0.0,0.0
+MobileNetV2,highdef,0.9875,1.0,0.0,0.94
+MobileNetV2,fixed,0.9964,1.0,0.0,0.25
+MobileNetV2,hand,0.9893,0.9994,0.25,0.75
+LBP + SVM,grandtest,0.9266,0.9857,7.28,6.9
+LBP + SVM,print,0.9563,0.9945,3.75,4.38
+LBP + SVM,mobile,0.9662,0.9967,3.47,4.08
+LBP + SVM,highdef,0.875,0.9705,10.31,10.94
+LBP + SVM,fixed,0.935,0.9866,6.17,6.42
+LBP + SVM,hand,0.9214,0.9848,7.75,7.38

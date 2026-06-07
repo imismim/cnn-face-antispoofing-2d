@@ -10,6 +10,11 @@ Pillow
 scikit-learn
 scikit-image
 
+# Deep Learning
+torch
+torchvision
+timm
+
 # Visualization
 matplotlib
 seaborn
